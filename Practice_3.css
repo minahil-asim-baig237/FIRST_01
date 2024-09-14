@@ -1,0 +1,44 @@
+    div{
+    background-color: black;
+   height: normal;
+   width: 110px;
+}
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} 
+ *{
+ padding: 0px;
+ margin: 0px;
+color: white;
+ }
+ #navbar{
+    height: 60px;
+    background-color: black;
+ }
+ button{
+    color: white;
+    background-color: orange;
+ }
+ #logo{
+    color: orange;
+    font-size: 25px;
+ }
+a{
+    margin-right: 150px ;
+    text-decoration: none;
+}
